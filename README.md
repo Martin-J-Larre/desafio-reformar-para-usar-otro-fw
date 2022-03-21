@@ -1,4 +1,5 @@
 ### npm install
+### Add uri mongo atlas on a .env file like .env.example
 ### npm run start:dev
 
 #### Create product
